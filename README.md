@@ -1,22 +1,27 @@
+# 👩‍💻   About Me:
 
-👩‍💻  About Me:
 💻 Front end developer JavaScript & React | HTML5 & CSS3 (SASS) | Agile & SCRUM
-💹 Professional experience as a project manage,which has given me experience in problem solving, organization, empathy and team motivation.
+
+💹 Professional experience as a project manager,which has given me experience in problem solving, organization, empathy and team motivation.
+
 🎨 I consider myself a creative person and I love challenges.
 
 🛠  Tech Stack:
-JavaScript  React  Bootstrap
-HTML  CSS  SASS  Node.js   Git  GitHub  
+JavaScript ||  React || Bootstrap||
+HTML||  CSS||  SASS || Node.js  || Git || GitHub  
 
 
 🧰  Other frequently used tools:
-Trello  Slack  Zeplin  Windows 
+Trello  ||Slack || Zeplin || Windows 
 
-Contacto
+## Contacto
 
 If you need to contact me here is the information you need:
 
-🚀 https://twitter.com/_MarinaDelgado_
-🚀 https://www.linkedin.com/in/marinadelgadoesquinas/
+🚀 [Twitter](https://twitter.com/_MarinaDelgado_)
+
+🚀 [Linkedin](https://www.linkedin.com/in/marinadelgadoesquinas/)
+
 🚀 marinadelges@gmail.com
+
 ⌨️ With ❤️ by MarinaDelgado 😊
